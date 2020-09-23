@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AuthUi</string>
+    <string name="auth_iptv_ott_title">本机进入OTT模式</string>
+    <string name="network_no_ip">本机未获取到IP地址</string>
+    <string name="network_ip_address">本机IP地址:{0}</string>
+    <string name="account_invalid">RMS平台账号密码牌照方下发失败</string>
+
+    <string name="dialog_none_ip">本机进入OTT模式\n本机未获取到IP地址\n未获取到IP地址，请检测网络\n您可以选择</string>
+    <string name="dialog_reconnect_ip">本机进入OTT模式\n本机未获取到IP地址\n未获取到IP地址，请检测网络\n正在重新连接({0}s)...</string>
+    <string name="dialog_reconnect_dns">本机进入OTT模式\n本机IP地址:{0}\n公网不通，请检测网络\n正在重新连接({1}s)...</string>
+    <string name="dialog_public_network_error">本机进入OTT模式\n本机IP地址:{0}\n公网不通，请检测网络\n您可以选择</string>
+    <string name="dialog_rms_connect_error">本机进入OTT模式\n本机IP地址:{0}\n机顶盒无法连接网管(RMS)平台</string>
+    <string name="dialog_license_error">本机进入OTT模式\n本机IP地址:{0}\nRMS平台账号密码牌照方下发失败</string>
+    <string name="dialog_network_setting">网络设置</string>
+    <string name="dialog_recheck">重新检测</string>
+    <string name="dialog_confirm">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_account_login_title">登陆密码</string>
+    <string name="dialog_remind_title">提醒</string>
+
+    <string name="login_title">用户登录</string>
+    <string name="account">账号:</string>
+    <string name="password">密码:</string>
+    <string name="account_login">登陆</string>
+    <string name="account_reset">重置</string>
+
+    <string name="toast_password_invalid">密码错误!</string>
+    <string name="toast_username_password_invalid">用户名或密码错误!</string>
+</resources>
